@@ -15,5 +15,5 @@ daily_min = []
   daily_min.push(lowest_temp)
   counter +=1
   end
-
+daily_min
 end
